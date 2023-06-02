@@ -42,13 +42,14 @@ h3 {
 .column {
     display: block;
     padding-top: 23px;
+    padding-bottom: 33px;
     padding-left: 33px;
     color: black;
     margin: 0 auto;
     border: 5px solid#E5E000;
     border-radius:30px;
     width: 400px;
-    height: 800px;
+    height: max-content;
 }
 
 .bar-footer {
